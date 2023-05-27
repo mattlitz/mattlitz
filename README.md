@@ -1,6 +1,6 @@
 ### 
 
-Hi I'm a mechanical engineer and aspiring data scientist.  My interests are employing data science in engineeering and financial applications.
+Hi - I'm a data science engineer with a background in mechanical engineering.  My interests are employing data science in engineeering and financial applications.
 
 
 <!--
